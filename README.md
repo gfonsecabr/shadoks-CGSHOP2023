@@ -16,3 +16,7 @@ To run, simply type:
 Which will show a help message. If you want to go with the default settings, all you need is an instance file:
 
 ```./solver -i someinstance.instance.json```
+
+Details about the algorithms are available at
+
+https://arxiv.org/abs/2303.07696
