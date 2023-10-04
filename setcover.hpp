@@ -258,7 +258,7 @@ public:
           solutionAdd(s);
       }
     }
-
+    env.end(); // Free memory!
     return ret;
   }
 
